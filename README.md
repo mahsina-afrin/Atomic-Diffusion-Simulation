@@ -21,7 +21,7 @@ The project is aligned with computational materials research and can serve as a 
 
 ## Folder Structure
 
-projectdiffusion.m → This is your main MATLAB code file that runs the simulation.
+projectdiffusion.m → This is  main MATLAB code file that runs the simulation.
 
 README.md → This file contains the project description, explanation and instructions.
 
