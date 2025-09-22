@@ -23,8 +23,8 @@ The project is aligned with computational materials research and can serve as a 
 
 Diffusion_Simulation/
 ├── projectdiffusion.m # Main MATLAB code
-├── README.md # Project description
-└── results/ # Plots and screenshots from simulation
+── README.md # Project description
+── results/ # Plots and screenshots from simulation
 
 
 ---
@@ -34,4 +34,4 @@ Diffusion_Simulation/
 2. Navigate to the folder containing `projectdiffusion.m`.  
 3. Run the script by typing in the Command Window:
 ```matlab
-projectdiffusion
+
