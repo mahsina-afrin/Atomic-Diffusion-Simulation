@@ -20,3 +20,18 @@ The project is aligned with computational materials research and can serve as a 
 ---
 
 ## Folder Structure
+
+Diffusion_Simulation/
+├── projectdiffusion.m # Main MATLAB code
+├── README.md # Project description
+└── results/ # Plots and screenshots from simulation
+
+
+---
+
+## How to Run
+1. Open **MATLAB**.  
+2. Navigate to the folder containing `projectdiffusion.m`.  
+3. Run the script by typing in the Command Window:
+```matlab
+projectdiffusion
